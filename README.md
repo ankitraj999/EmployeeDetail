@@ -1,0 +1,2 @@
+# EmployeeDetail
+angular project
